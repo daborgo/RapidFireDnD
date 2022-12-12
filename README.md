@@ -8,3 +8,5 @@ Gameplay includes:
 - monster battles
 - treasure finds
 - event encounters
+
+Project Demonstration/Gameplay: https://youtu.be/8ase4nVMcrM
